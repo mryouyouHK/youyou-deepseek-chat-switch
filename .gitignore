@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.env.*
+# dist/ is published on purpose, so it is not ignored

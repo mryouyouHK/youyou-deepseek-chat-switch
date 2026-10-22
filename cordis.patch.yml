@@ -1,0 +1,3 @@
+- insert:
+    - id: deepseek-chat-switch
+      name: 'youyou-deepseek-chat-switch'
