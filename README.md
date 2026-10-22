@@ -1,8 +1,7 @@
 # DeepSeek Chat Switch
 
-点击左侧 **DeepSeek Chat** 图标，DeepSeek Chat 会直接嵌在 Harness 主区域内打开；点击其他侧栏项或面板里的 **返回 Harness** 即可切回 Harness 会话。不使用系统默认浏览器，也不在对话输入区增加按钮。左侧会话目录顶部另有一组 **HARNESS / Chat** 模式切换 Tab（默认 HARNESS，Chat 显示插件的 DeepSeek Chat 历史），详见下文。
-
-面板头部：**标题左侧**的时钟按钮打开 **历史记录**，**右上角**的齿轮按钮打开 **设置**；历史记录浮层向左对齐，从标题下方展开。
+在DeepSeek HARNESS左侧侧边栏生成 **DeepSeek Chat** 图标。点击，DeepSeek Chat 会直接嵌在 Harness 右侧主区域内打开；
+在DeepSeek HARNESS左侧侧边栏生成Tab **HARNESS**和**Chat** ，可切换不同模式，同时 Chat 支持常用的网页版大模型，其他详见下文。
 
 ## 会话目录模式：HARNESS / Chat
 
